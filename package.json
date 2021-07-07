@@ -1,0 +1,16 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "XRFXLP <ajaym6405@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "deepai": "~1.0.17",
+    "discord.js": "^12.5.3",
+    "unirest": "^0.6.0"
+  }
+}
